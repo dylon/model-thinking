@@ -1,0 +1,9 @@
+.cake
+pom.xml
+*.jar
+*.war
+lib
+classes
+build
+/Model Thinking
+resources/lectures/*
